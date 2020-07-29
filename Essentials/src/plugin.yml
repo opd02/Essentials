@@ -108,10 +108,6 @@ commands:
     description: Deletes the specified warp.
     usage: /<command> <warp>
     aliases: [edelwarp,remwarp,eremwarp,rmwarp,ermwarp]
-  depth:
-    description: States current depth, relative to sea level.
-    usage: /depth
-    aliases: [edepth,height,eheight]
   disposal:
     description: Opens a portable disposal menu.
     usage: /<command>
