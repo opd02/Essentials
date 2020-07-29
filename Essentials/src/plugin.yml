@@ -65,10 +65,6 @@ commands:
     description: Spawn a big tree where you are looking.
     usage: /<command> <tree|redwood|jungle|darkoak>
     aliases: [ebigtree,largetree,elargetree]
-  burn:
-    description: Set a player on fire.
-    usage: /<command> <player> <seconds>
-    aliases: [eburn]
   clearinventory:
     description: Clear all items in your inventory.
     usage: /<command> [player|*] [item[:<data>]|*|**] [amount]
